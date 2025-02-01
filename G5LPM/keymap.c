@@ -2,6 +2,7 @@
 #include "version.h"
 #include "i18n.h"
 #define MOON_LED_LEVEL LED_LEVEL
+#define ML_SAFE_RANGE SAFE_RANGE
 
 enum custom_keycodes {
   RGB_SLD = ML_SAFE_RANGE,
